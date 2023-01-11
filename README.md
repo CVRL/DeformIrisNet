@@ -4,7 +4,7 @@ To run the network to dilate a single pupil image, use single_image.py as follow
 
 > python single_image.py <weight_path> <small_pupil_image_path> <big_pupil_mask_image_path>
 
-The weight is the .pth file provided. A large pupil image will be saved as dilated.png, play around with the mask and see the output.
+The weight is the .pth file provided here: https://notredame.box.com/v/deformirisnetweight . A large pupil image will be saved as dilated.png, play around with the mask and see the output.
 
 The paper can be found here: 
 > https://openaccess.thecvf.com/content/WACV2023/papers/Khan_DeformIrisNet_An_Identity-Preserving_Model_of_Iris_Texture_Deformation_WACV_2023_paper.pdf
