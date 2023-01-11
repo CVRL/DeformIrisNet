@@ -19,6 +19,6 @@ Bibtex:
   booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
   pages={900--908},
   year={2023}
-  }
+}
 ```
 
