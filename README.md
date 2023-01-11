@@ -8,6 +8,7 @@ The weight is the .pth file provided. A large pupil image will be saved as dilat
 
 The paper can be found here: 
 > https://openaccess.thecvf.com/content/WACV2023/papers/Khan_DeformIrisNet_An_Identity-Preserving_Model_of_Iris_Texture_Deformation_WACV_2023_paper.pdf
+
 > https://arxiv.org/abs/2207.08980
 
 Bibtex:
