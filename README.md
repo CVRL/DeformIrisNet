@@ -14,11 +14,11 @@ The paper can be found here:
 Bibtex:
 ```
 @inproceedings{khan2023deformirisnet,
-  title={DeformIrisNet: An Identity-Preserving Model of Iris Texture Deformation},
-  author={Khan, Siamul Karim and Tinsley, Patrick and Czajka, Adam},
-  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
-  pages={900--908},
-  year={2023}
+    title = {DeformIrisNet: An Identity-Preserving Model of Iris Texture Deformation},
+    author = {Khan, Siamul Karim and Tinsley, Patrick and Czajka, Adam},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+    pages = {900--908},
+    year = {2023}
 }
 ```
 
